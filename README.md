@@ -248,15 +248,15 @@ Dette er et tilnærmet bunnpunkt $(f''>0)$.
 Jeg får også $3$ plots etter kjøring: 
 
 1: *Befolkning i USA*
-![plot Befolkning i USA med polynommodell] (plot Befolkning i USA med polynommodell.png)
+![plot Befolkning i USA med polynommodell] (images/plot Befolkning i USA med polynommodell.png)
 Dette plottet viser punktene fra datasettet (.csv-filen) vi tegnet. Her er det tegnet en linje mellom hvert punkt. 
 
 2: *Befolkning i USA med polynommodell*
-![plot Befolkning i USA med polynommodell] (plot Befolkning i USA med polynommodell.png)
+![plot Befolkning i USA med polynommodell] (images/plot Befolkning i USA med polynommodell.png)
 Til forskjell fra det første plottet - linje mellom hvert punkt - går det heller en glatt linje tilpasset alle punktene med hjelp av regresjon. Vi får en polynomfunksjon $f(x)$ som representerer alle punktene i datasettet. 
 
 3: *Deriverte til befolkningsmodellen*
-![plot Deriverte til befolkningsmodellen] (plot Deriverte til befolkningsmodellen.png)
+![plot Deriverte til befolkningsmodellen] (images/plot Deriverte til befolkningsmodellen.png)
 Dette plottet viser $f'(x)$ og $f''(x)$. Her er $f'(x)$ en lineær graf $(x,y)$ mens $f''(x)$ en linje $(x)$. 
 
 
