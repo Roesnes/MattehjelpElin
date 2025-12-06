@@ -248,7 +248,7 @@ Dette er et tilnærmet bunnpunkt $(f''>0)$.
 Jeg får også $3$ plots etter kjøring: 
 
 1: *Befolkning i USA*
-![plot Befolkning i USA med polynommodell](images/plot%20Befolkning%20i%20USA%20med%20polynommodell.png)
+![plot Befolkning i USA med polynommodell](images/plot%20Befolkning%20i%20USA.png)
 Dette plottet viser punktene fra datasettet (.csv-filen) vi tegnet. Her er det tegnet en linje mellom hvert punkt. 
 
 2: *Befolkning i USA med polynommodell*
