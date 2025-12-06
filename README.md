@@ -259,11 +259,8 @@ Til forskjell fra det første plottet - linje mellom hvert punkt - går det hell
 ![plot Deriverte til befolkningsmodellen](images/plot%20Deriverte%20til%20befolkningsmodellen.png)
 Dette plottet viser $f'(x)$ og $f''(x)$. Her er $f'(x)$ en lineær graf $(x,y)$ mens $f''(x)$ en linje $(x)$. 
 
-Bilder av notater (samme som i dette dokumentet): 
+Bilder av notater (samme som i dette dokumentet README.md): 
 ![1](images/1.png)
 ![2](images/2.png)
 ![3](images/3.png)
 
-
-Spyder.png: 
-![[Pasted image 20251206033738.png]]
